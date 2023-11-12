@@ -36,6 +36,10 @@
 !
 ||mwazhey.com^
 ||advice-ads.s3.amazonaws.com^
+||https://ads.facebook.com^
+||advertising.twitter.com^
+||ads-dev.pinterest.com^
+||https://ads.reddit.com^
 ||affiliationjs.s3.amazonaws.com^
 ||afs.googlesyndication.com^
 ||analytics.google.com^
