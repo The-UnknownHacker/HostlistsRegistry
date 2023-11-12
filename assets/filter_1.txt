@@ -36,6 +36,7 @@
 !
 ||mwazhey.com^
 ||advice-ads.s3.amazonaws.com^
+||affiliationjs.s3.amazonaws.com^
 ||afs.googlesyndication.com^
 ||analytics.google.com^
 ||click.googleanalytics.com^
